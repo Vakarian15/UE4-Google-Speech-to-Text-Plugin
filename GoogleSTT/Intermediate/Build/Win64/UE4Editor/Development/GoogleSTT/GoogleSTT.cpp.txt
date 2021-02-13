@@ -1,0 +1,2 @@
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h

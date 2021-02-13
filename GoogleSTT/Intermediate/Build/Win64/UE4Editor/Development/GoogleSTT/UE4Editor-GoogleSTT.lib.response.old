@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GoogleSTT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Project\bptest\Intermediate\Build\Win64\bptestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\GoogleSTT.cpp.obj"
+"D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Default.rc2.res"
+/OUT:"D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\UE4Editor-GoogleSTT.lib"
+/INCLUDE:IMPLEMENT_MODULE_GoogleSTT
