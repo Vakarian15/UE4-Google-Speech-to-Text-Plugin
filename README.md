@@ -1,7 +1,7 @@
 # UE4-Google-Speech-to-Text-Plugin
 UE4 [Google Speech Recognition](https://cloud.google.com/speech-to-text/) Plugin including Voice Capture Function.
 # Engine version and platform
-Engine version: 4.25.4
+Engine version: 4.25.4  
 Platform: Windows 10
 # Preparation
 1) Follow the [instruction](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries) to set up a Cloud Console project and enable the Cloud Speech-to-Text API for that project. 
