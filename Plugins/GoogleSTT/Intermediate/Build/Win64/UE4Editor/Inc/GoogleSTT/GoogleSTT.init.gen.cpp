@@ -25,8 +25,8 @@ void EmptyLinkFunctionForGeneratedCodeGoogleSTT_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xD873F0E2,
-				0x3BFAEC3E,
+				0x8DAD2E61,
+				0x7AB487B2,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

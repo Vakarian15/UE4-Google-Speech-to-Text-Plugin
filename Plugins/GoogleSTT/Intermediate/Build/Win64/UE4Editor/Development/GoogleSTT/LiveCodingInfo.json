@@ -2,15 +2,15 @@
 	"RemapUnityFiles": 
 	{
 		"Module.GoogleSTT.cpp.obj": [
+			"GoogleSpeechRecognition.cpp.obj",
 			"GoogleSTT.cpp.obj",
 			"RecordingComponent.cpp.obj",
-			"RecordingManager.cpp.obj",
-			"SpeechRecognition.cpp.obj"
+			"RecordingManager.cpp.obj"
 		],
 		"Module.GoogleSTT.gen.cpp.obj": [
+			"GoogleSpeechRecognition.gen.cpp.obj",
 			"GoogleSTT.init.gen.cpp.obj",
-			"RecordingComponent.gen.cpp.obj",
-			"SpeechRecognition.gen.cpp.obj"
+			"RecordingComponent.gen.cpp.obj"
 		]
 	}
 }

@@ -97,7 +97,7 @@ public class GoogleSTT : ModuleRules
 		PublicDefinitions.AddRange(
 			new string[] {
 				"CPPREST_FORCE_PPLX=0",
-//				"_WIN32_WINNT_VISTA=0",
+				"_WIN32_WINNT_VISTA=0",
 			}
 			);
 

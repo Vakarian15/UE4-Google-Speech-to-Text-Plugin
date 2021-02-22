@@ -1,144 +1,9 @@
 D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Development\GoogleSTT\Definitions.GoogleSTT.h
-D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSTT.cpp
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h
-D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingComponent.cpp
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingComponent.h
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Windows.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h
-D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\excpt.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\kernelspecs.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack8.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\ktmtypes.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apisetcconv.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\apiquery2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapifromapp.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\debugapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\utilapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\handleapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namedpipeapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\profileapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ioapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\enclaveapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wow64apiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namespaceapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\systemtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processtopologyapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securityappcontainer.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\realtimeapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\timezoneapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\tvout.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\datetimeapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\stringapiset.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincon.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi3.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winver.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\verrsrc.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\reason.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnetwk.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wnnc.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\stralign.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\imm.h
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ime_cmodes.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
-D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\string
-D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\cctype
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
-D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\vcruntime_startup.h
-D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\sstream
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h
-D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingManager.cpp
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\ARFilter.generated.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AudioEditor\Classes\Factories/SoundFactory.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Factories/Factory.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Factory.generated.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundFactory.generated.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
-D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
-D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/SpeechRecognition.cpp
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\SpeechRecognition.h
+D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSpeechRecognition.cpp
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSpeechRecognition.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
-D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\SpeechRecognition.generated.h
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\GoogleSpeechRecognition.generated.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Engine.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Core.h
@@ -296,6 +161,8 @@ D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Compone
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
 D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
@@ -809,6 +676,9 @@ D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/det
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sal.h
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\concurrencysal.h
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\fstream
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\sstream
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\string
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\cctype
 D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/SafeInt3.hpp
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
 D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\pplx/pplxtasks.h
@@ -820,6 +690,10 @@ D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\ratio
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\mutex
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\vcruntime_startup.h
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\ppltaskscheduler.h
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\crtdefs.h
 D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\pplcancellation_token.h
@@ -855,3 +729,129 @@ D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/det
 D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/filestream.h
 D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\ThirdParty\include\cpprest/details/fileio.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/GoogleSTT.cpp
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\GoogleSTT.h
+D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingComponent.cpp
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingComponent.h
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Source\GoogleSTT\Public\RecordingManager.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ime_cmodes.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\Unreal Project\bptest\Plugins\GoogleSTT\Intermediate\Build\Win64\UE4Editor\Inc\GoogleSTT\RecordingComponent.generated.h
+D:/Unreal Project/bptest/Plugins/GoogleSTT/Source/GoogleSTT/Private/RecordingManager.cpp
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\ARFilter.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AudioEditor\Classes\Factories/SoundFactory.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Factories/Factory.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Factory.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor\SoundFactory.generated.h
