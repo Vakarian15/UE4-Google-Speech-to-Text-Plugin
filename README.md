@@ -4,17 +4,18 @@ UE4 [Google Speech Recognition](https://cloud.google.com/speech-to-text/) Plugin
 Engine version: 4.25.4
 Platform: Windows 10
 # Preparation
-1) Follow the [instruction](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries) to set up a Cloud Console project and enable the Cloud Speech-to-Text API for that project. 
-2) Create an API key.
+1) Follow the [instruction](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries) to set up a Cloud Console project and enable the Cloud [Speech-to-Text API](https://console.cloud.google.com/apis/library/speech.googleapis.com) for that project. 
+2) Create an API key
+[Create an Api key](https://cloud.google.com/docs/authentication/api-keys)  
 ![](Pictures/Apikey.png)
 # How to use
-1) Set Api Key
+1) Set Api Key  
 ![](Pictures/SetApiKey.png)
-2) Add Recording Component to your actor.
+2) Add Recording Component to your actor  
 ![](RecordingComponent.png)
-3) Record your speech and test your microphone.
+3) Record your speech and test your microphone  
 ![](RecordSpeech.png)
-4) Set recognition configuration and send your speech to google.
+4) Set recognition configuration and send your speech to google  
 ![](Recognition.png)
 # Tips
 * Speak no more than one minute each time.
