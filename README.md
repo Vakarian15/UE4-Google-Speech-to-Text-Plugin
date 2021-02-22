@@ -9,14 +9,18 @@ Platform: Windows 10
 [Create an Api key](https://cloud.google.com/docs/authentication/api-keys)  
 ![](Pictures/Apikey.png)
 # How to use
-1) Set Api Key  
+1) Set Api Key
+
 ![](Pictures/SetApiKey.png)
-2) Add Recording Component to your actor  
-![](RecordingComponent.png)
-3) Record your speech and test your microphone  
-![](RecordSpeech.png)
-4) Set recognition configuration and send your speech to google  
-![](Recognition.png)
+2) Add Recording Component to your actor
+
+![](Pictures/RecordingComponent.png)
+3) Record your speech and test your microphone
+
+![](Pictures/RecordSpeech.png)
+4) Set recognition configuration and send your speech to google
+
+![](Pictures/Recognition.png)
 # Tips
 * Speak no more than one minute each time.
 * Capture audio with a sampling rate of 16,000 Hz or higher. And smaller sample rate will help you get the result faster (In general, 16,000 Hz is enoough).
