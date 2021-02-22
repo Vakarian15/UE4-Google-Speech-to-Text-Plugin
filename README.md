@@ -12,12 +12,15 @@ Platform: Windows 10
 1) Set Api Key
 
 ![](Pictures/SetApiKey.png)
+
 2) Add Recording Component to your actor
 
 ![](Pictures/RecordingComponent.png)
+
 3) Record your speech and test your microphone
 
 ![](Pictures/RecordSpeech.png)
+
 4) Set recognition configuration and send your speech to google
 
 ![](Pictures/Recognition.png)
