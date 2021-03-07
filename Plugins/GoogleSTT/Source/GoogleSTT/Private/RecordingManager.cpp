@@ -3,7 +3,6 @@
 #include "RecordingManager.h"
 #include "Sound/AudioSettings.h"
 #include "AssetRegistryModule.h"
-#include "Factories/SoundFactory.h"
 #include "Misc/ScopeLock.h"
 #include "Sound/SoundWave.h"
 #include "AudioDeviceManager.h"
