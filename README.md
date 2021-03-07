@@ -5,7 +5,7 @@ Engine version: 4.25.4
 Platform: Windows 10
 # Preparation
 1) Follow the [instruction](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries) to set up a Cloud Console project and enable the Cloud [Speech-to-Text API](https://console.cloud.google.com/apis/library/speech.googleapis.com) for that project. 
-2) Create an API key
+2) Create an API key  
 [Create an Api key](https://cloud.google.com/docs/authentication/api-keys)  
 ![](Pictures/Apikey.png)
 # How to use
