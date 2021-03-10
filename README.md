@@ -24,6 +24,16 @@ Platform: Windows 10
 4) Set recognition configuration and send your speech to google
 
 ![](Pictures/Recognition.png)
+
+5) Enable exception for packaged builds
+
+Go to your {ProjectName}.Target.cs and add this in the constructor:
+
+```
+bForceEnableExceptions = true;
+bOverrideBuildEnvironment = true;
+```
+
 # Tips
 * Speak no more than one minute each time.
 * Capture audio with a sampling rate of 16,000 Hz or higher. And smaller sample rate will help you get the result faster (In general, 16,000 Hz is enoough).
