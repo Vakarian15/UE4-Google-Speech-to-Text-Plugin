@@ -198,7 +198,12 @@ void get_results(string_t STTaudio, Config STTconfig, FString& Result, UGoogleSp
 
 void UGoogleSpeechRecognition::Recognize(FGoogleSTTConfig GoogleSTTConfig, UGoogleSpeechRecognition* BlueprintNode)
 {
-    if (GoogleSTTConfig.SoundWave->RawPCMData == nullptr)
+    if (GoogleSTTConfig.SoundWave == nullptr)
+    {
+        UE_LOG(LogTemp, Warning, TEXT("Please Say Something"));
+        return;
+    }
+    else if (GoogleSTTConfig.SoundWave->RawPCMData == nullptr)
     {
         UE_LOG(LogTemp, Warning, TEXT("Please Say Something"));
         return;
